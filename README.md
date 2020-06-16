@@ -12,7 +12,7 @@ BTW, the published paper is right.... over here <https://iopscience.iop.org/arti
 
 But only the rich oranges can afford subscriptions.
 
-Here is the link for the nomral oranges like me <https://arxiv.org/pdf/1910.09111.pdf>
+Here is the link for average oranges like me <https://arxiv.org/pdf/1910.09111.pdf>
 
 ## License
 
