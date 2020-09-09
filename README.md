@@ -1,6 +1,5 @@
 # Low Cost Cryogenic Temperature Measurement System
 
-Sup my fellow oranges :)
 
 The Arduino_code.ino needs to be uploaded onto the Arduino board using the Arduino IDE. It presents the firmware on the microcontroller.
 
@@ -8,11 +7,7 @@ The file Processing_code.pde contains the source code for the graphical user int
 
 The graphical user interface was built using controlP5 library. The license regarding the third party software used is included in controlP5_license. 
 
-BTW, the published paper is right.... over here <https://iopscience.iop.org/article/10.1088/1361-6552/ab60db>
-
-But only the rich oranges can afford subscriptions.
-
-Here is the link for average oranges like me <https://arxiv.org/pdf/1910.09111.pdf>
+The published paper is here <https://iopscience.iop.org/article/10.1088/1361-6552/ab60db <https://arxiv.org/pdf/1910.09111.pdf>
 
 ## License
 
