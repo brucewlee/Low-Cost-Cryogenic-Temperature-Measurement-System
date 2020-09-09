@@ -7,7 +7,7 @@ The file Processing_code.pde contains the source code for the graphical user int
 
 The graphical user interface was built using controlP5 library. The license regarding the third party software used is included in controlP5_license. 
 
-The published paper is here <https://iopscience.iop.org/article/10.1088/1361-6552/ab60db ><https://arxiv.org/pdf/1910.09111.pdf>
+The published paper is here https://iopscience.iop.org/article/10.1088/1361-6552/ab60db <https://arxiv.org/pdf/1910.09111.pdf>
 
 ## License
 
